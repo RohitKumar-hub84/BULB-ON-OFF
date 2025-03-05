@@ -1,0 +1,43 @@
+body {
+    font-family: 'open Sans', sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.container h1 {
+    font-size: 44px;
+}
+
+.btn button {
+    width: 80px;
+    height: 36px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 22px;
+    background-color: white;
+    margin-inline: 22px;
+    cursor: pointer;
+    margin-top: 70px;
+}
+
+#img {
+    height: 350px;
+    margin-bottom: 25px;
+}
+
+.inventor {
+    width: 120px;
+    height: 150px;
+    position: absolute;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+.inventor p {
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 5px;
+    color: red;
+}
